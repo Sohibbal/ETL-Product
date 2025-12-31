@@ -1,0 +1,7 @@
+submission.txt
+.pytest_cache/
+__pycache__/
+myvenv/
+env/
+.coverage
+google-sheets-api.json
